@@ -1,2 +1,2 @@
-# Antida-Python-School
-Решение заданий с курса Antida Python School от Antida Software
+# Antida Python School
+Solving tasks from the Antida Python School course from Antida Software
